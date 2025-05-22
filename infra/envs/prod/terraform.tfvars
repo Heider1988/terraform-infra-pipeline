@@ -1,0 +1,1 @@
+bucket_name="prd-sa-east-1-pipeline"
